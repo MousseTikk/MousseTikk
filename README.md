@@ -8,4 +8,4 @@ Feel free to explore, and don't hesitate to reach out if you have any questions 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,c,php,python,kotlin)](https://skillicons.dev)
 
 ## Frameworks and skills
-[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux,idea,qt,vscode,graphql,spring,react,npm,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,django,docker,git,gitlab,github,linux,idea,qt,vscode,spring,react,npm,androidstudio,arduino)](https://skillicons.dev)
